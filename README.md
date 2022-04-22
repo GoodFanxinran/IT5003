@@ -1,2 +1,2 @@
 # IT5003
-IT5003 from NUS 22Spring_Semester2
+IT5003 Data Structures and Algorithms 2021/2022 Semester 2
